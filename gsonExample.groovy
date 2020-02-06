@@ -30,4 +30,4 @@ Type TT_mapStringString = new TypeToken<HashMap<String, HashMap<String, Object>>
 String writeOut = gson.toJson(database, TT_mapStringString);
 println "New database JSON content = \n\n"+writeOut
 
-ScriptingEngine.commit(myURL, "master", filename, writeOut, "saving CSG database", true);
+ScriptingEngine.commit(myURL, "master", filename, writeOut, "saving CSG database", false);
