@@ -1,13 +1,15 @@
 {
-	"DataSetOne":{
-		"keyOne": 1,
-    		"keyTwo": 2,
-    		"keyThress":"Data in secion 3"
-	},
-	"DataSetTwo":{
-		"keyOne": 1,
-    		"keyTwo": 2,
-    		"keyThress":"Data in secion 3"
-	}
-	
+  "DataSetOne": {
+    "keyTwo": 2.0,
+    "keyOne": 1.0,
+    "keyThress": "Data in secion 3"
+  },
+  "NewDataset": {
+    "myNewKey": "MyValue"
+  },
+  "DataSetTwo": {
+    "keyTwo": 2.0,
+    "keyOne": 1.0,
+    "keyThress": "Data in secion 3"
+  }
 }
