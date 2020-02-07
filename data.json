@@ -4,6 +4,9 @@
     "keyOne": 1.0,
     "keyThress": "Data in secion 3"
   },
+  "NewDataset": {
+    "myNewKey": "MyValue"
+  },
   "DataSetTwo": {
     "keyTwo": 2.0,
     "keyOne": 1.0,
