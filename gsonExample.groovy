@@ -22,6 +22,7 @@ for(String key:database.keySet()) {
 // Writing data
 HashMap<String, Object> newData = new HashMap<>()
 newData.put("myNewKey","MyValue")
+newData.put("myOtherKey",37.42)
 database.put("NewDataset",newData)
 
 Type TT_mapStringString = new TypeToken<HashMap<String, HashMap<String, Object>>>() {}.getType();
