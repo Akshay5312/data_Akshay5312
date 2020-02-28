@@ -1,16 +1,16 @@
 {
   "DataSetOne": {
+    "keyThree": "Data in secion 3",
     "keyTwo": 2.0,
-    "keyOne": 1.0,
-    "keyThree": "Data in secion 3"
+    "keyOne": 1.0
   },
   "NewDataset": {
     "myOtherKey": 37.42,
     "myNewKey": "MyValue"
   },
   "DataSetTwo": {
+    "keyThree": "Data in secion 3",
     "keyTwo": 2.0,
-    "keyOne": 1.0,
-    "keyThree": "Data in secion 3"
+    "keyOne": 1.0
   }
 }
